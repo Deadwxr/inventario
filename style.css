@@ -1,0 +1,15 @@
+/* styles.css */
+body { font-family: Arial, sans-serif; background:#f7f7f7; color:#222; margin:0; padding:0; }
+.container { max-width:980px; margin:24px auto; background: #fff; padding:20px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.06); }
+.site-header, .site-footer { background:#222; color:#fff; padding:12px 0; }
+.site-header .inner, .site-footer .inner { max-width:980px; margin:0 auto; padding:0 16px; display:flex; align-items:center; justify-content:space-between; }
+.site-header a, .site-footer a { color:#fff; text-decoration:none; }
+h1 a { color:#fff; text-decoration:none; }
+h2 { margin-top:0; }
+form label { display:block; margin:8px 0; }
+input[type="text"], input[type="password"], input[type="number"], select { width:100%; padding:8px; box-sizing:border-box; }
+button, .btn { display:inline-block; background:#007bff; color:#fff; padding:8px 12px; border-radius:6px; text-decoration:none; border:none; cursor:pointer; }
+.alert { background:#ffefef; border:1px solid #ffcccc; padding:8px; margin-bottom:12px; }
+.tabla { width:100%; border-collapse:collapse; margin-top:12px; }
+.tabla th, .tabla td { border:1px solid #e5e5e5; padding:8px; text-align:left; }
+.nav-user { margin-right:12px; color:#ddd; }
