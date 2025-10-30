@@ -8,7 +8,7 @@
       <?php if (is_logged_in()): ?>
         <span class="nav-user">👤 <?= htmlspecialchars($_SESSION['nombre']) ?></span>
         <a href="dashboard.php">Inicio</a>
-        <a href="logout.php">Cerrar sesión</a>
+        <a href="logout.php">Para Cerrar sesión</a>
       <?php else: ?>
         <a href="index.php">Iniciar sesión</a>
       <?php endif; ?>
