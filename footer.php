@@ -3,6 +3,6 @@
 ?>
 <footer class="site-footer">
   <div class="inner">
-    <small>Proyecto - <?= APP_NAME ?> · <?= date('Y') ?></small>
+    <small>© <?= date('Y') ?> · Sistema de Inventario · Desarrollado en PHP + MySQL</small>
   </div>
 </footer>
