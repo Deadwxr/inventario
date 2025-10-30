@@ -32,7 +32,7 @@ if ($userRow && $cedula === '1111' && $userRow['password'] === '1234') {
     <p>Eres administrador. Accesos:</p>
     <p>
       <a class="btn" href="users_list.php">Gestionar Usuarios</a><br>
-      <a class="btn" href="articles_list.php">Gestionar Artículos</a>
+      <a class="btn" href="articles_list.php">Lista Gestionar Artículos</a>
     </p>
   <?php else: ?>
     <p>Acceso a la gestión de artículos:</p>
