@@ -62,3 +62,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <?php include 'footer.php'; ?>
 </body>
 </html>
+<div class="footer-credits">
+  Creado por Juan David, William, Uribe
+</div>
