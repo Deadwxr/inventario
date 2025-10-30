@@ -63,5 +63,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </body>
 </html>
 <div class="footer-credits">
-  Creado por Juan David, William, Uribe.....
+  Creado por Juan David, William, Uribe
 </div>
